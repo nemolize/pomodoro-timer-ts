@@ -48,7 +48,7 @@ A modern, feature-rich Pomodoro Timer application built with React and TypeScrip
 
 ### Prerequisites
 - Node.js (v18 or higher)
-- npm (v8 or higher)
+- pnpm (v8 or higher)
 
 ### Installation Steps
 1. Clone the repository:
@@ -59,7 +59,7 @@ A modern, feature-rich Pomodoro Timer application built with React and TypeScrip
 
 2. Install dependencies:
    ```bash
-   npm install
+   pnpm install
    ```
 
 ### Environment Setup
@@ -70,7 +70,7 @@ No additional environment variables are required for basic functionality.
 ### Starting the Application
 1. Run the development server:
    ```bash
-   npm run dev
+   pnpm run dev
    ```
 2. Open your browser and navigate to `http://localhost:5000`
 

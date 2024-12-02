@@ -107,3 +107,8 @@ The Pomodoro Timer follows a simple workflow:
 ## License
 
 This project is open source and available under the MIT License.
+
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.

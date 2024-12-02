@@ -53,8 +53,8 @@ A modern, feature-rich Pomodoro Timer application built with React and TypeScrip
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nemolize/pomodoro-timer-ts.git
-   cd pomodoro-timer-ts
+   git clone https://github.com/nemolize/pomodoro-timer.git
+   cd pomodoro-timer
    ```
 
 2. Install dependencies:
